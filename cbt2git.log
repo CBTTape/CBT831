@@ -1,0 +1,16 @@
+2023-08-06 07:50:41.043994 - Initialized conversion of CBT831
+2023-08-06 07:50:41.142069 - Received CBT.V505.FILE831.PDS from FILE831.XMI 
+2023-08-06 07:50:41.144324 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE831.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:50:41.145494 - Found $$8CHRID.txt (text/plain) in CBT.V505.FILE831.PDS, moved to PDS/$$8CHRID
+2023-08-06 07:50:41.146513 - Found #CALL.txt (text/plain) in CBT.V505.FILE831.PDS, moved to PDS/#CALL
+2023-08-06 07:50:41.147485 - Found #ENTRY.txt (text/plain) in CBT.V505.FILE831.PDS, moved to PDS/#ENTRY
+2023-08-06 07:50:41.148436 - Found #GBLWKA.txt (text/plain) in CBT.V505.FILE831.PDS, moved to PDS/#GBLWKA
+2023-08-06 07:50:41.149312 - Found #MAPS.txt (text/plain) in CBT.V505.FILE831.PDS, moved to PDS/#MAPS
+2023-08-06 07:50:41.150237 - Found #REGS.txt (text/plain) in CBT.V505.FILE831.PDS, moved to PDS/#REGS
+2023-08-06 07:50:41.151143 - Found #RETURN.txt (text/plain) in CBT.V505.FILE831.PDS, moved to PDS/#RETURN
+2023-08-06 07:50:41.152326 - Found @FILE831.txt (text/plain) in CBT.V505.FILE831.PDS, moved to PDS/@FILE831
+2023-08-06 07:50:41.153378 - Found CONCATFR.txt (text/plain) in CBT.V505.FILE831.PDS, moved to PDS/CONCATFR
+2023-08-06 07:50:41.154310 - Found CONCATP$.jcl (text/plain) in CBT.V505.FILE831.PDS, moved to PDS/CONCATP$
+2023-08-06 07:50:41.155303 - Found CONCATP#.txt (text/plain) in CBT.V505.FILE831.PDS, moved to PDS/CONCATP#
+2023-08-06 07:50:41.156183 - Found CONCATPG.txt (text/plain) in CBT.V505.FILE831.PDS, moved to PDS/CONCATPG
+2023-08-06 07:50:41.157048 - Found CONCATPU.txt (text/plain) in CBT.V505.FILE831.PDS, moved to PDS/CONCATPU
